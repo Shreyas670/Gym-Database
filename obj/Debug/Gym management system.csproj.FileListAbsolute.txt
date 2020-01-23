@@ -1,0 +1,29 @@
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\bin\Debug\Gym management system.exe.config
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\bin\Debug\Gym management system.exe
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\bin\Debug\Gym management system.pdb
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym management system.csprojAssemblyReference.cache
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.Properties.Resources.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym management system.csproj.GenerateResource.cache
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym management system.csproj.CoreCompileInputs.cache
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym management system.exe
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym management system.pdb
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\bin\Debug\Database.mdf
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\bin\Debug\Database_log.ldf
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.welcome.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.addmember.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.addtrainer.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.addpayment.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.displaybranch.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.displaytrainer.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.displaypayment.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.displayequipment.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.displaymember.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.firstone.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.login.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.userBranchdis.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.about.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym_management_system.contact.resources
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\bin\Debug\Gym management system.exe.manifest
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\bin\Debug\Gym management system.application
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym management system.exe.manifest
+C:\Users\SHREYAS\Desktop\net proj\Gym management system\Gym management system\obj\Debug\Gym management system.application

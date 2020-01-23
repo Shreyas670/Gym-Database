@@ -1,0 +1,9 @@
+﻿CREATE TABLE BRANCH
+(
+	[BranchId] VARCHAR(10) NOT NULL PRIMARY KEY, 
+    [Name] VARCHAR(20) NULL, 
+    [Address] VARCHAR(30) NULL, 
+    [Contact] INT NULL, 
+    [MgrId] VARCHAR(10) NULL, 
+    CONSTRAINT [FKP1] FOREIGN KEY ([MgrId]) REFERENCES [TRAINER]([TrainerId])
+)

@@ -1,0 +1,8 @@
+﻿CREATE TABLE TRAINER
+(
+	[TrainerId] VARCHAR(10) NOT NULL PRIMARY KEY, 
+    [Name] VARCHAR(20) NULL, 
+    [Mobile] INT NULL, 
+    [BranchId] VARCHAR(10) NULL, 
+    CONSTRAINT [FKP2] FOREIGN KEY ([BranchId]) REFERENCES [BRANCH]([BranchId])
+)

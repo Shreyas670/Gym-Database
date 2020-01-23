@@ -1,0 +1,11 @@
+﻿CREATE TABLE UTILISE
+(
+	[TrainerId] VARCHAR(10) NOT NULL , 
+    [MemberId] VARCHAR(10) NOT NULL, 
+    [EqpId] VARCHAR(10) NOT NULL, 
+    [Workout] VARCHAR(20) NULL, 
+    PRIMARY KEY ([TrainerId],[MemberId],[EqpId]), 
+    CONSTRAINT [FKP6] FOREIGN KEY ([TrainerId]) REFERENCES [TRAINER]([TrainerId]), 
+    CONSTRAINT [FKP7] FOREIGN KEY ([MemberId]) REFERENCES [MEMBER]([MemberId]), 
+    CONSTRAINT [FKP8] FOREIGN KEY ([EqpId]) REFERENCES [EQUIPMENT]([EqpId]), 
+)

@@ -1,0 +1,6 @@
+﻿CREATE TABLE EQUIPMENT
+(
+	[EqpId] VARCHAR(10) NOT NULL PRIMARY KEY, 
+    [Name] VARCHAR(20) NULL, 
+    [Pur_Year] INT NULL
+)

@@ -1,0 +1,8 @@
+﻿CREATE TABLE PAYMENT
+(
+	[PaymentId] VARCHAR(10) NOT NULL PRIMARY KEY, 
+    [Amount] INT NULL, 
+    [Type] VARCHAR(20) NULL, 
+    [MemberId] VARCHAR(10) NULL, 
+    CONSTRAINT [FKP5] FOREIGN KEY ([MemberId]) REFERENCES [MEMBER]([MemberId])
+)
